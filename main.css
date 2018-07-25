@@ -1,0 +1,107 @@
+
+
+.wrapper {
+      width: 1000px;
+      height: 1500px;
+      margin: auto;
+      padding: 30px;
+      background-color: #768281;
+      
+     }
+
+      header {
+      width: 900px;
+      height: 100px;
+      background-color: orange;
+      padding: 30px;
+      text-align: center;
+      font-size: 20px;
+      color: white;
+      margin: auto;
+      }
+
+     .main {
+       width: 950px;
+      height: 1000px;
+      background-color: white;
+      padding: 30px;
+      }
+
+      footer {
+      width: 900px;
+      height: 50px;
+      background-color: orange;
+      padding: 10px;
+      text-align: center;
+      color: white;
+      margin-top: 25px;
+      margin-left: auto;   
+      margin-right: auto;     
+      }
+
+      nav {
+      width: 950px;
+      height: 25px;
+      background-color: #121266;
+      text-align: center;
+      padding: 30px;
+      }
+ 
+      .sidebar {
+       width: 200px;
+       height: 1000px;
+       background-color: teal;
+       float: left;
+       text-align: center
+       padding: 30px;
+       }
+
+       .content {
+         width: 600px;
+         height: 650px;
+         background-color: teal;
+         float: right;
+         padding: 20px
+         font-family: Raleway;
+         text-align: center
+       }
+
+       p {
+        
+       }  
+
+       nav li {
+        display: inline;
+        margin-left: 100px;
+        margin-right: 100px;
+        padding: 30px;
+      
+       }
+
+        nav li a {
+        text-decoration: none;
+        color: yellow;
+        padding: 30px;
+        }
+        
+        a:link {
+          color: white;
+        }
+
+        a:visited {
+          color: orange;
+        }
+
+        a:hover {
+          color: blue;
+        }
+
+        a:active {
+          color: purple;
+        }
+        
+       figure {
+         position: relative;   
+         bottom: 370px;   
+         left: 560px;
+       } 
